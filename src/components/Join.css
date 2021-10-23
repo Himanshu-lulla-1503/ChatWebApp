@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1)),url('../img/chatback.jpg') center/cover no-repeat fixed;
+}
+
+
+.container{
+    
+    height:100vh;
+}
+.joindiv{
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.1)), #fff;
+    border-radius: 30px;
+}
+.btn-outline-dark{
+    border-radius: 30px;
+}
+.joininput{
+    border-radius: 20px;
+}

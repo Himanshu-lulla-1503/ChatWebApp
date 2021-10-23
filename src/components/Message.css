@@ -1,0 +1,23 @@
+.usermessage{
+    background-color: #4B5DE2;
+    padding: 0.8rem;
+    border-radius: 30px;
+    color:#fff;
+
+}
+
+.othermessage{
+    background-color: cyan;
+    padding: 0.8rem;
+    border-radius: 30px;
+    color:#000;
+
+}
+.scroller{
+  overflow: auto;
+  flex: auto;
+    
+}
+.endmessage{
+  overflow-wrap:break-word;
+}
